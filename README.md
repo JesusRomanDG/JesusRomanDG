@@ -1,4 +1,6 @@
-### Hola 👋
+### ¡Hola!, mi nombre es Jesus Garcia. 👋
+
+Soy un desarrollador principiante de aplicaciones de escritorio y paginas web sencillas. Se programar aplicaciones en C#, WPF, html y javascript.
 
 <!--
 **JesusRomanDG/JesusRomanDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
