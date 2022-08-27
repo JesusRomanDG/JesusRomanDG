@@ -1,3 +1,6 @@
+![](name.png)
+
+
 ### ¡Hola!, mi nombre es Jesus Garcia. 👋
 
 Soy un desarrollador principiante de aplicaciones de escritorio y paginas web sencillas. Se programar aplicaciones en C#, WPF, html y javascript.
