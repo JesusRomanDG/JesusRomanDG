@@ -3,7 +3,7 @@
 
 ### ¡Hola!, mi nombre es Jesus Garcia. 👋
 
-Soy un desarrollador principiante de aplicaciones de escritorio y paginas web sencillas. Se programar en C#, WPF, html y javascript.
+Me considero desarrollador principiante de aplicaciones de escritorio y paginas web sencillas. Se programar en C#, WPF, html y javascript.
 
 He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escritorio, mayormente enfocado a la parte de diseño de interfaces de usuario.
 
