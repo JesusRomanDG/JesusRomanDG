@@ -10,10 +10,13 @@ He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escr
 -Me gusta jugar videojuegos.
 <p>-Mi gato me ayuda a encontrar errores en mis aplicaciones.
 
-|   Hora    |Lunes          |Martes        |Miercoles      |Jueves         |Viernes       |
-|----------	|:-------------:|:------------:|:-------------:|:-------------:|:------------:|
-| 15:00     |Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|
-|           | 
+![](horario.png)
+|Hora       |Lunes                  |Martes                 |Miercoles              |Jueves                 |Viernes                |
+|-----------|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
+|15:00      |Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|
+|16:00      |Diseño y Evaluacion de Interfaces de Usuario|Diseño y Evaluacion de Interfaces de Usuario|Diseño y Evaluacion de Interfaces de Usuario|Diseño y Evaluacion de Interfaces de Usuario|Diseño y Evaluacion de Interfaces de Usuario|
+|17:00      |Sistemas Programables  |Sistemas Programables  |Sistemas Programables  |Sistemas Programables  |                       |
+|18:00      |Conmutacion y Enrutamiento de Redes|Conmutacion y Enrutamiento de Redes|Conmutacion y Enrutamiento de Redes|Conmutacion y Enrutamiento de Redes|Conmutacion y Enrutamiento de Redes|
              
              
 <!--
