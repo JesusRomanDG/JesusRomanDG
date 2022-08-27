@@ -8,7 +8,8 @@ Soy un desarrollador principiante de aplicaciones de escritorio y paginas web se
 He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escritorio, mayormente enfocado a la parte de diseño de interfaces de usuario.
 
 -Me gusta jugar videojuegos.
-<p>-Mi gato me ayuda a encontrar errores en mis aplicaciones.
+<p>-Mi gato me ayuda a encontrar errores en mis aplicaciones.</p>
+
 ![](capitanBigotes.png)
 
 
