@@ -9,6 +9,8 @@ He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escr
 
 -Me gusta jugar videojuegos.
 <p>-Mi gato me ayuda a encontrar errores en mis aplicaciones.
+![](capitanBigotes.png)
+
 
 ![](horario.png)
 |Hora       |Lunes                  |Martes                 |Miercoles              |Jueves                 |Viernes                |
