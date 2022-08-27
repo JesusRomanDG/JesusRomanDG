@@ -10,7 +10,7 @@ He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escr
 -Me gusta jugar videojuegos.
 <p>-Mi gato me ayuda a encontrar errores en mis aplicaciones.</p>
 
-![](capitanBigotes.jpg)
+<img src='capitanBigotes.jpg' width='30%'>
 
 
 ![](horario.png)
