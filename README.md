@@ -5,6 +5,8 @@
 
 Soy un desarrollador principiante de aplicaciones de escritorio y paginas web sencillas. Se programar aplicaciones en C#, WPF, html y javascript.
 
+He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escritorio, mayormente enfocado a la parte de diseño de interfaces de usuario.
+
 Me gustan los gatos y jugar videojuegos.
 
 <!--
