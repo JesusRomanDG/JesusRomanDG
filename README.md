@@ -10,6 +10,12 @@ He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escr
 -Me gusta jugar videojuegos.
 <p>-Mi gato me ayuda a encontrar errores en mis aplicaciones.
 
+|   Hora    |Lunes          |Martes        |Miercoles      |Jueves         |Viernes       |
+|----------	|:-------------:|:------------:|:-------------:|:-------------:|:------------:|
+| 15:00     |Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|Lenguajes y Automatas I|
+|           | 
+             
+             
 <!--
 **JesusRomanDG/JesusRomanDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
