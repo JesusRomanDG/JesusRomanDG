@@ -7,7 +7,8 @@ Soy un desarrollador principiante de aplicaciones de escritorio y paginas web se
 
 He desarrollado algunos proyectos sencillos escolares sobre aplicaciones de escritorio, mayormente enfocado a la parte de diseño de interfaces de usuario.
 
-Me gustan los gatos y jugar videojuegos.
+-Me gusta jugar videojuegos.
+-Mi gato llamado Capitan Bigotes me ayuda a encontrar errores en mis aplicaciones.
 
 <!--
 **JesusRomanDG/JesusRomanDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
